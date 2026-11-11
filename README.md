@@ -30,3 +30,8 @@ git push -u origin main --tags
 ```
 
 Chỉ gắn tag sau khi đã bổ sung ảnh để tag chứa đầy đủ bài nộp.
+
+
+## Bài 2 — Catalog API
+
+Mã nguồn, client, request kiểm tra và hướng dẫn chạy: [Bai2_/CataLogApi](Bai2_/CataLogApi/README.md). Tag: `bai2`.
